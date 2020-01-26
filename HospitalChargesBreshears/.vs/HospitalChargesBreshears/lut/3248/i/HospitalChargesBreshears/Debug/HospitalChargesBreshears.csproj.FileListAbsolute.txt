@@ -1,0 +1,9 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\b\HospitalChargesBreshears\bin\Debug\HospitalChargesBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\b\HospitalChargesBreshears\bin\Debug\HospitalChargesBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshears\Debug\HospitalChargesBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshears\Debug\HospitalChargesBreshears.HospitalCharges.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshears\Debug\HospitalChargesBreshears.Properties.Resources.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshears\Debug\HospitalChargesBreshears.csproj.GenerateResource.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshears\Debug\HospitalChargesBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshears\Debug\HospitalChargesBreshears.csproj.CopyComplete
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshears\Debug\HospitalChargesBreshears.exe

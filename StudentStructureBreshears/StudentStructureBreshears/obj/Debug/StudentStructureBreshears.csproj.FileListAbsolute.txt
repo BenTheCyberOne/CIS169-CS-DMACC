@@ -1,0 +1,10 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\bin\Debug\StudentStructureBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\bin\Debug\StudentStructureBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\bin\Debug\StudentStructureBreshears.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\obj\Debug\StudentStructureBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\obj\Debug\StudentStructureBreshears.StudentStructure.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\obj\Debug\StudentStructureBreshears.Properties.Resources.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\obj\Debug\StudentStructureBreshears.csproj.GenerateResource.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\obj\Debug\StudentStructureBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\obj\Debug\StudentStructureBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StudentStructureBreshears\StudentStructureBreshears\obj\Debug\StudentStructureBreshears.pdb

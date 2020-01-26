@@ -1,0 +1,15 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\StudentInfoDB.mdf
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\StudentInfoDB_log.ldf
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.deps.json
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.runtimeconfig.json
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.runtimeconfig.dev.json
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\b\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\i\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\i\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.AssemblyInfoInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\i\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.AssemblyInfo.cs
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\i\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.csproj.CopyComplete
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\i\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\CSFinalBreshears\.vs\CSFinalBreshears\lut\0\i\CSFinalUnitTest\Debug\netcoreapp2.1\CSFinalUnitTest.csprojAssemblyReference.cache

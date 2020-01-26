@@ -1,0 +1,9 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\bin\Debug\Random Card.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\bin\Debug\Random Card.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\obj\x86\Debug\Random Card.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\obj\x86\Debug\Random_Card.Form1.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\obj\x86\Debug\Random_Card.Properties.Resources.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.GenerateResource.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\obj\x86\Debug\Random Card.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap08\Random Card\Random Card\obj\x86\Debug\Random Card.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.MainForm.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb

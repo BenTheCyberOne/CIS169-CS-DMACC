@@ -1,0 +1,18 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\FileIOBreshears.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\FileIOBreshears.FileIOBreshears.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\FileIOBreshears.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\FileIOBreshears.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\FileIOBreshears.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\FileIOBreshears.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.FileIOBreshears.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap05\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.FileIOBreshears.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshears\FileIOBreshears\obj\x86\Debug\FileIOBreshears.csproj.CoreCompileInputs.cache

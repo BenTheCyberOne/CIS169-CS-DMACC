@@ -1,0 +1,12 @@
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\bin\Debug\ProductDB.mdf
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\bin\Debug\ProductDB_log.ldf
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\bin\Debug\WriteSQLStatementBreshears.exe.config
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\bin\Debug\WriteSQLStatementBreshears.exe
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\bin\Debug\WriteSQLStatementBreshears.pdb
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\obj\Debug\WriteSQLStatementBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\obj\Debug\WriteSQLStatementBreshears.Query.resources
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\obj\Debug\WriteSQLStatementBreshears.Properties.Resources.resources
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\obj\Debug\WriteSQLStatementBreshears.csproj.GenerateResource.cache
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\obj\Debug\WriteSQLStatementBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\obj\Debug\WriteSQLStatementBreshears.exe
+C:\Users\BearTop\source\repos\WriteSQLStatementBreshears\WriteSQLStatementBreshears\obj\Debug\WriteSQLStatementBreshears.pdb

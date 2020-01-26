@@ -1,0 +1,9 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb

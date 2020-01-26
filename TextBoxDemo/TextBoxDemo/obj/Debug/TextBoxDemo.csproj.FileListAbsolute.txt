@@ -1,0 +1,10 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.TextBoxDemoForm.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.exe.config
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.pdb

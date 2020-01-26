@@ -1,0 +1,10 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\bin\Debug\HelloWorldBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\bin\Debug\HelloWorldBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\bin\Debug\HelloWorldBreshears.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\obj\Debug\HelloWorldBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\obj\Debug\HelloWorldBreshears.mainForm.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\obj\Debug\HelloWorldBreshears.Properties.Resources.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\obj\Debug\HelloWorldBreshears.csproj.GenerateResource.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\obj\Debug\HelloWorldBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\obj\Debug\HelloWorldBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\BenBreshearsUnit1\HelloWorldBreshears\HelloWorldBreshears\obj\Debug\HelloWorldBreshears.pdb

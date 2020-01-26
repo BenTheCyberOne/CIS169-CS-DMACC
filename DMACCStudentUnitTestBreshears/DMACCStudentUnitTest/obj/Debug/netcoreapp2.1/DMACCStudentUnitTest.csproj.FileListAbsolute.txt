@@ -1,0 +1,14 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\DMACCStudentUnitTest.deps.json
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\DMACCStudentUnitTest.runtimeconfig.json
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\DMACCStudentUnitTest.runtimeconfig.dev.json
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\DMACCStudentUnitTest.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\bin\Debug\netcoreapp2.1\DMACCStudentUnitTest.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\obj\Debug\netcoreapp2.1\DMACCStudentUnitTest.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\obj\Debug\netcoreapp2.1\DMACCStudentUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\obj\Debug\netcoreapp2.1\DMACCStudentUnitTest.AssemblyInfoInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\obj\Debug\netcoreapp2.1\DMACCStudentUnitTest.AssemblyInfo.cs
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\obj\Debug\netcoreapp2.1\DMACCStudentUnitTest.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\DMACCStudentUnitTest\DMACCStudentUnitTest\obj\Debug\netcoreapp2.1\DMACCStudentUnitTest.pdb

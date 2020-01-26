@@ -1,0 +1,10 @@
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\bin\Debug\TimeCalculatorBreshears.exe.config
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\bin\Debug\TimeCalculatorBreshears.exe
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\bin\Debug\TimeCalculatorBreshears.pdb
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\obj\Debug\TimeCalculatorBreshears.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\obj\Debug\TimeCalculatorBreshears.TimeCalculatorBreshears.resources
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\obj\Debug\TimeCalculatorBreshears.Properties.Resources.resources
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\obj\Debug\TimeCalculatorBreshears.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\obj\Debug\TimeCalculatorBreshears.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\obj\Debug\TimeCalculatorBreshears.exe
+C:\Users\Ben\source\repos\TimeCalculatorBreshears\TimeCalculatorBreshears\obj\Debug\TimeCalculatorBreshears.pdb

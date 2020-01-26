@@ -1,0 +1,7 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArrayBasicsBreshears\ArrayBasicsBreshears\bin\Debug\ArrayBasicsBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArrayBasicsBreshears\ArrayBasicsBreshears\bin\Debug\ArrayBasicsBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArrayBasicsBreshears\ArrayBasicsBreshears\bin\Debug\ArrayBasicsBreshears.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArrayBasicsBreshears\ArrayBasicsBreshears\obj\Debug\ArrayBasicsBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArrayBasicsBreshears\ArrayBasicsBreshears\obj\Debug\ArrayBasicsBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArrayBasicsBreshears\ArrayBasicsBreshears\obj\Debug\ArrayBasicsBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArrayBasicsBreshears\ArrayBasicsBreshears\obj\Debug\ArrayBasicsBreshears.pdb

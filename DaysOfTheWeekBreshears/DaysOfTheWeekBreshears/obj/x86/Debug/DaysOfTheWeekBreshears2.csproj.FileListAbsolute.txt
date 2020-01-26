@@ -1,0 +1,9 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\bin\Debug\DaysOfTheWeekBreshears.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\bin\Debug\DaysOfTheWeekBreshears.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\obj\x86\Debug\DaysOfTheWeekBreshears2.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\obj\x86\Debug\Switch_Example.MainForm.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\obj\x86\Debug\DaysOfTheWeekBreshears.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\obj\x86\Debug\DaysOfTheWeekBreshears2.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\obj\x86\Debug\DaysOfTheWeekBreshears2.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\obj\x86\Debug\DaysOfTheWeekBreshears.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DaysOfTheWeekBreshears\DaysOfTheWeekBreshears\obj\x86\Debug\DaysOfTheWeekBreshears.pdb

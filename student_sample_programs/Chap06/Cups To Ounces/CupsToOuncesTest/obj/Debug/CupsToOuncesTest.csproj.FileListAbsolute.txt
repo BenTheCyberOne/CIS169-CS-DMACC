@@ -1,0 +1,16 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\obj\Debug\CupsToOuncesTest.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\obj\Debug\CupsToOuncesTest.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\CupsToOuncesTest.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\CupsToOuncesTest.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Cups To Ounces.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Cups To Ounces.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\obj\Debug\CupsToOuncesTest.csproj.CopyComplete
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\obj\Debug\CupsToOuncesTest.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Cups To Ounces\CupsToOuncesTest\obj\Debug\CupsToOuncesTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.FileIOBreshears.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\bin\Debug\FileIOBreshearsFix.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\bin\Debug\FileIOBreshearsFix.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\FileIOBreshearsFix\FileIOBreshearsFix\obj\x86\Debug\FileIOBreshearsFix.pdb

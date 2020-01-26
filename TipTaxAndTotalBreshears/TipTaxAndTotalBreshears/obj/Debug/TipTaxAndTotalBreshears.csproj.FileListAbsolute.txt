@@ -1,0 +1,10 @@
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\bin\Debug\TipTaxAndTotalBreshears.exe.config
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\bin\Debug\TipTaxAndTotalBreshears.exe
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\bin\Debug\TipTaxAndTotalBreshears.pdb
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\obj\Debug\TipTaxAndTotalBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\obj\Debug\TipTaxAndTotalBreshears.MainForm.resources
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\obj\Debug\TipTaxAndTotalBreshears.Properties.Resources.resources
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\obj\Debug\TipTaxAndTotalBreshears.csproj.GenerateResource.cache
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\obj\Debug\TipTaxAndTotalBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\obj\Debug\TipTaxAndTotalBreshears.exe
+C:\Users\BearTop\source\repos\TipTaxAndTotalBreshears\TipTaxAndTotalBreshears\obj\Debug\TipTaxAndTotalBreshears.pdb

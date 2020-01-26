@@ -1,0 +1,17 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\HospitalChargesBreshearsTests.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\HospitalChargesBreshearsTests.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\HospitalChargesBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\HospitalChargesBreshears.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\HospitalChargesBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\obj\Debug\HospitalChargesBreshearsTests.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\obj\Debug\HospitalChargesBreshearsTests.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\obj\Debug\HospitalChargesBreshearsTests.csproj.CopyComplete
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\obj\Debug\HospitalChargesBreshearsTests.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\HospitalChargesBreshearsTests\obj\Debug\HospitalChargesBreshearsTests.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\Bank\Bank\obj\Debug\Bank.pdb

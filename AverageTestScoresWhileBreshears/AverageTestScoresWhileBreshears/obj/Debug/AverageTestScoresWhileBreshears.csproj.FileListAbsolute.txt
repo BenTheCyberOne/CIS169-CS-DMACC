@@ -1,0 +1,7 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\AverageTestScoresWhileBreshears\AverageTestScoresWhileBreshears\bin\Debug\AverageTestScoresWhileBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\AverageTestScoresWhileBreshears\AverageTestScoresWhileBreshears\bin\Debug\AverageTestScoresWhileBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\AverageTestScoresWhileBreshears\AverageTestScoresWhileBreshears\bin\Debug\AverageTestScoresWhileBreshears.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\AverageTestScoresWhileBreshears\AverageTestScoresWhileBreshears\obj\Debug\AverageTestScoresWhileBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\AverageTestScoresWhileBreshears\AverageTestScoresWhileBreshears\obj\Debug\AverageTestScoresWhileBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\AverageTestScoresWhileBreshears\AverageTestScoresWhileBreshears\obj\Debug\AverageTestScoresWhileBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\AverageTestScoresWhileBreshears\AverageTestScoresWhileBreshears\obj\Debug\AverageTestScoresWhileBreshears.pdb

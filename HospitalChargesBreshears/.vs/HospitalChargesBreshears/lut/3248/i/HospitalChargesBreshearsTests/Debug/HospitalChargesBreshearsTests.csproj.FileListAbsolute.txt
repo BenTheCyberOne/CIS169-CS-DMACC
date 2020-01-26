@@ -1,0 +1,5 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\b\HospitalChargesBreshearsTests\bin\Debug\HospitalChargesBreshearsTests.dll
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshearsTests\Debug\HospitalChargesBreshearsTests.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshearsTests\Debug\HospitalChargesBreshearsTests.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshearsTests\Debug\HospitalChargesBreshearsTests.csproj.CopyComplete
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesBreshearsTests\Debug\HospitalChargesBreshearsTests.dll

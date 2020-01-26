@@ -1,0 +1,16 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\PayAndBonusTest.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\PayAndBonusTest.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Pay and Bonus.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Pay and Bonus.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\obj\Debug\PayAndBonusTest.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\obj\Debug\PayAndBonusTest.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\obj\Debug\PayAndBonusTest.csproj.CopyComplete
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\obj\Debug\PayAndBonusTest.dll
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\student_sample_programs\Chap06\Pay and Bonus\PayAndBonusTest\obj\Debug\PayAndBonusTest.pdb

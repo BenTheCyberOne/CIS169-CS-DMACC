@@ -1,0 +1,10 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\bin\Debug\WorkerClass.exe.config
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\bin\Debug\WorkerClass.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\bin\Debug\WorkerClass.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\obj\Debug\WorkerClass.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\obj\Debug\WorkerClass.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\obj\Debug\WorkerClass.WorkerForm.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\obj\Debug\WorkerClass.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\obj\Debug\WorkerClass.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\obj\Debug\WorkerClass.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\WorkerClass\WorkerClass\obj\Debug\WorkerClass.pdb

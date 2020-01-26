@@ -1,0 +1,3 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesTest\Debug\netcoreapp2.1\HospitalChargesTest.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesTest\Debug\netcoreapp2.1\HospitalChargesTest.AssemblyInfoInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\HospitalChargesBreshears\.vs\HospitalChargesBreshears\lut\0\i\HospitalChargesTest\Debug\netcoreapp2.1\HospitalChargesTest.AssemblyInfo.cs

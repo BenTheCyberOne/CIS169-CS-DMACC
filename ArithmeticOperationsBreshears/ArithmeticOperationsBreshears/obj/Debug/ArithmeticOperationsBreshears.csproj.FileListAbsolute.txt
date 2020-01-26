@@ -1,0 +1,10 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\bin\Debug\ArithmeticOperationsBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\bin\Debug\ArithmeticOperationsBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\bin\Debug\ArithmeticOperationsBreshears.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\obj\Debug\ArithmeticOperationsBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\obj\Debug\ArithmeticOperationsBreshears.MainForm.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\obj\Debug\ArithmeticOperationsBreshears.Properties.Resources.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\obj\Debug\ArithmeticOperationsBreshears.csproj.GenerateResource.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\obj\Debug\ArithmeticOperationsBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\obj\Debug\ArithmeticOperationsBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\ArithmeticOperationsBreshears\ArithmeticOperationsBreshears\obj\Debug\ArithmeticOperationsBreshears.pdb

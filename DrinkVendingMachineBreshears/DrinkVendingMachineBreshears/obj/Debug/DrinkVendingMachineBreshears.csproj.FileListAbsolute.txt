@@ -1,0 +1,10 @@
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\bin\Debug\DrinkVendingMachineBreshears.exe.config
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\bin\Debug\DrinkVendingMachineBreshears.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\bin\Debug\DrinkVendingMachineBreshears.pdb
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\obj\Debug\DrinkVendingMachineBreshears.csprojAssemblyReference.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\obj\Debug\DrinkVendingMachineBreshears.DrinkMachine.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\obj\Debug\DrinkVendingMachineBreshears.Properties.Resources.resources
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\obj\Debug\DrinkVendingMachineBreshears.csproj.GenerateResource.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\obj\Debug\DrinkVendingMachineBreshears.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\obj\Debug\DrinkVendingMachineBreshears.exe
+C:\Users\Ben\OneDrive - Des Moines Area Community College\C#\DrinkVendingMachineBreshears\DrinkVendingMachineBreshears\obj\Debug\DrinkVendingMachineBreshears.pdb

@@ -1,0 +1,10 @@
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\obj\Debug\StringVariableDemoBreshears.csprojAssemblyReference.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\obj\Debug\StringVariableDemoBreshears.MainForm.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\obj\Debug\StringVariableDemoBreshears.Properties.Resources.resources
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\obj\Debug\StringVariableDemoBreshears.csproj.GenerateResource.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\obj\Debug\StringVariableDemoBreshears.csproj.CoreCompileInputs.cache
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\bin\Debug\StringVariableDemoBreshears.exe.config
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\bin\Debug\StringVariableDemoBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\bin\Debug\StringVariableDemoBreshears.pdb
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\obj\Debug\StringVariableDemoBreshears.exe
+C:\Users\BearTop\OneDrive - Des Moines Area Community College\C#\StringVariableDemoBreshears\StringVariableDemoBreshears\obj\Debug\StringVariableDemoBreshears.pdb
